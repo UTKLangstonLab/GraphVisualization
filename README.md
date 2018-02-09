@@ -1,6 +1,6 @@
 # GraphVisualization
 
-An overview of available graph algorithm and visualization packages. 
+An overview of available graph algorithm and visualization packages/software. 
 
 ## Python
 
@@ -23,3 +23,5 @@ An overview of available graph algorithm and visualization packages.
 ## Other 
 
 ### Graphviz
+
+### Cytoscape
